@@ -1,3 +1,6 @@
+C program to display different data types
+
+
 #include <stdio.h>
 
 int main() {
@@ -14,4 +17,5 @@ int main() {
     printf("String value: %s\n", name);
 
     return 0;
+
 }
